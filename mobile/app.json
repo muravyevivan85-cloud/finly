@@ -1,0 +1,31 @@
+{
+  "expo": {
+    "name": "Psychology Platform",
+    "slug": "psychology-platform-mobile",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "scheme": "psychologyplatform",
+    "userInterfaceStyle": "automatic",
+    "newArchEnabled": true,
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.psychologyplatform.mobile"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#eef4f1"
+      },
+      "package": "com.psychologyplatform.mobile"
+    },
+    "web": {
+      "bundler": "metro",
+      "output": "static"
+    },
+    "plugins": [
+      "expo-router"
+    ],
+    "experiments": {
+      "typedRoutes": true
+    }
+  }
+}

@@ -1,0 +1,1 @@
+Expo icon/splash assets can be added here later. The project is configured to use Expo SDK 57.
